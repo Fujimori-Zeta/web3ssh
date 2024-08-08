@@ -3,9 +3,13 @@ The Decentralized Loyalty Program is a blockchain-based solution for managing lo
 
 ## Features
 Smart Contracts: Manage and track loyalty points securely on the Ethereum blockchain.
+
 User Interface: A responsive web application for users to view their points balance, transaction history, and redeem points.
+
 Merchant Integration: API/SDK for merchants to manage loyalty points and integrate with the decentralized system.
+
 # Tech Stack
+
 ### Blockchain Platform:
 
 Ethereum: Blockchain platform for deploying smart contracts.
